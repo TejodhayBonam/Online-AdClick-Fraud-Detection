@@ -1,12 +1,6 @@
 # Supervised Machine Learning for Click Fraud Detection
 
 
-Shan Dou<br>
-MLND capstone project<br>
-July 2018
-
-Link to proposal review: https://review.udacity.com/#!/reviews/1314525
-
 ---
 ## 1. Data source:
 Kaggle competion "[TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)".
